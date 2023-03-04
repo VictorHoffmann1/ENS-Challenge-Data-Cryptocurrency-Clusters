@@ -10,5 +10,9 @@ You will find in this repository:
 
 -A PDF explaining my whole approach of the problem.
 
-For this challenge, I have achieved the 11th place out of the 51 participants. 
+For this challenge, I have achieved the 11th place out of the 51 participants. Unfortunately, I'm not allowed to share the dataset, but you can download it if you register on the Data Challenge website on this following link: https://challengedata.ens.fr/participants/challenges/71/
+
+Here is the link of the leaderboard: https://challengedata.ens.fr/participants/challenges/71/ranking/public
+
+Username: VictorHoffmann
 
